@@ -1,6 +1,19 @@
+body {
+    background: #3e3d57
+}
+
+h1 {
+    text-align: center
+}
+
 p {
 	text-align: center
 }
-body {
-    background: #2920ac
+
+#peido {
+    font-size: large
+}
+
+em strong {
+    color: burlywood;
 }
